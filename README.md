@@ -1,8 +1,13 @@
 # Ra Radiosonde Receiver - Hardware
 
-![PCB top view](https://user-images.githubusercontent.com/32458301/31149009-c5044f3a-a88e-11e7-918a-5470d12d1245.png)
+## Do I need this?
 
-![PCB bottom view](https://user-images.githubusercontent.com/32458301/31149088-0f50765e-a88f-11e7-8d40-8027c922aa82.png)
+![Ra enclosure](https://user-images.githubusercontent.com/32458301/31867808-89dfd27e-b795-11e7-9571-6110e98a9a9a.png)
+
+According to decent experts who have never seen or touched it: **NO**.
+
+If you still want to get the details, proceed to the [Wiki](https://github.com/einergehtnochrein/ra-hardware/wiki).
+
 
 ## License
 
