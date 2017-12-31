@@ -12,7 +12,7 @@ There are three related software projects:
 
   * Secondary [bootloader](https://github.com/einergehtnochrein/ra-loader) for the LPC54114 to allow firmware update via Bluetooth.
   * The [firmware](https://github.com/einergehtnochrein/ra-firmware).
-  * The Android app (not yet on GitHub, but coming soon. Send a PM if you need it now).
+  * The Android app (not yet on GitHub, but coming soon. For now you can download the APK from the [Wiki](https://github.com/einergehtnochrein/ra-hardware/wiki). Send a PM if you need sources now).
 
 ## License
 
