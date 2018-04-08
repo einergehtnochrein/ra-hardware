@@ -2,7 +2,7 @@
 
 ## Do I need this?
 
-![Ra enclosure](https://user-images.githubusercontent.com/32458301/31867808-89dfd27e-b795-11e7-9571-6110e98a9a9a.png)
+<img src="https://user-images.githubusercontent.com/32458301/31867808-89dfd27e-b795-11e7-9571-6110e98a9a9a.png" width="200">
 
 According to decent experts who have never seen or touched it: **NO**.
 
